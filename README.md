@@ -38,6 +38,27 @@ I am a third-year student at the **National University of Singapore, School of C
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 
+## Selected Projects
+
+### Improving Recognition of Rare Postural Transitions
+
+- Classified 12 human activities and postural transitions using the HAPT dataset (10,929 windows; 561 smartphone accelerometer and gyroscope features), targeting improved rare-transition recognition.
+- Improved rare-class test F1 from 0.71 to 0.97 and rare-class test accuracy from 0.73 to 0.98 through neighboring-window context, random oversampling, posture memory and principal component analysis (PCA).
+- Developed and evaluated multilayer perceptron (MLP) models in PyTorch, random forest classifiers in scikit-learn, and gradient-boosted trees with XGBoost.
+- Applied Feature Ablation, Integrated Gradients and LIME to provide explainability for a black-box model (MLP) by analyzing feature contributions.
+
+[Project Repository](https://github.com/AY26-27-Sem1-CS3244-Group3/Improving-Recognition-of-Rare-Postural-Transitions)
+
+### Interactive Intent Clarification for Text-to-SQL
+
+- Lead the design of a computational-graph representation that locates unresolved semantic decisions, including implicit intentions, within query operations and dependencies for progressive clarification.
+- Lead the design and implementation of an HCI frontend combining graph-based clarification with query-result previews to help users refine intent and guide SQL generation.
+- Contribute to an offline data-construction and learning approach using reversed semantic-noising trajectories to support online clarification and intention refinement.
+
+[Earlier Frontend Repository](https://github.com/code-philia/Interactive-Ambiguity-aware-NL2SQL-Frontend)
+
+*This repository contains an older, frontend-only version. The research group will make the repository for the new full project public after the paper is published.*
+
 ## Where to Find Me
 
 [![Email](https://img.shields.io/badge/Email-e1082989%40u.nus.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:e1082989@u.nus.edu) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yifei-yang-981b67381/)
