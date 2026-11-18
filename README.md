@@ -33,7 +33,7 @@ I am a third-year student at the **National University of Singapore, School of C
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Tencent Cloud](https://img.shields.io/badge/Tencent_Cloud-00A4FF?style=flat-square&logo=tencentcloud&logoColor=white)
 
-## Currently Learning / Improving
+## Currently Learning / Improving on
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
